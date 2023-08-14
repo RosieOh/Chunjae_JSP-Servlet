@@ -29,7 +29,7 @@
         <li><a href="test14.jsp">JSTL Other</a></li>
         <li><a href="test15.jsp">액션태그1 - useBean/foward</a></li>
         <li><a href="test16.jsp">액션태그2 - useBean/param</a></li>
-        <li><a href=""></a></li>
+        <li><a href="test17.jsp">액션태그3 - getProperty/setProperty</a></li>
         <li><a href=""></a></li>
         <li><a href=""></a></li>
         <li><a href=""></a></li>
