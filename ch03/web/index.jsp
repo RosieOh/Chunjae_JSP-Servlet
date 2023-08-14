@@ -15,7 +15,20 @@
         <li><a href="test04.jsp">Directive file<</a></li>
         <li><a href="test05.jsp">Request Header</a></li>
         <li><a href="test06.jsp">Expression Language</a></li>
-        <li><a href="test07.jsp"></a></li>
+        <li><a href="test07.jsp">Expression Language Objects</a></li>
+        <li><a href="test08.jsp">EL Data Form</a></li>
+        <li><a href="Test09JavaCtrl.do">Java Servlet Ctrl Test</a></li>
+        <li><a href="test10.jsp">EL Operation</a></li>
+        <li><a href="test11.jsp?noVar=20">EL Aided</a></li>
+        <li><a href="login.jsp">로그인</a></li>
+        <br>
+        <hr>
+        <br>
+        <li><a href="test12.jsp">JSTL Basic</a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
         <li><a href=""></a></li>
         <li><a href=""></a></li>
         <li><a href=""></a></li>
